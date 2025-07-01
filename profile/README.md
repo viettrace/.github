@@ -1,12 +1,12 @@
-# 🌍 viettrace
+# viettrace
 
 **VietTrace** is an open-source ecosystem designed to preserve and connect the local values of Vietnam—from place names, culture, to communities—in the context of administrative, social, and environmental changes.
 
-> 📌 *Preserving the past – Connecting the future*
+> *Preserving the past – Connecting the future*
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Store administrative maps of Vietnam **before and after provincial mergers**
 - Compare historical place names to help future generations understand **regional identity**
@@ -17,7 +17,7 @@
 
 ---
 
-## 📦 Notable sub-projects
+## Notable sub-projects
 
 | Project Name | Objective |
 |----------|----------|
@@ -28,7 +28,7 @@
 
 ---
 
-## 🤝 Join us
+## Join us
 
 We welcome:
 - Developers (backend/frontend)
@@ -40,7 +40,7 @@ We welcome:
 
 ---
 
-## 📬 Contact
+## Contact
 
 - Email: lam.tttech19@gmail.com
 - Website: *Coming soon*
