@@ -23,7 +23,7 @@
 |----------|----------|
 | `viettrace-core` | Core logic for all viettrace projects |
 | `viettrace-map-web` | Web-based old/new administrative maps – display changes in place names over time on web |
-| `viettrace-map-mobile` | Old/new administrative maps mobile app – display changes in place names over time on mobile app (IOS/Android) |
+| `viettrace-map-mobile` | Old/new administrative maps mobile app – display changes in place names over time on mobile app (iOS/Android) |
 | `viettrace-api` | Public API for third-party systems |
 | `viettrace-green` | Promoting environmental protection awareness locally [Future] |
 | `viettrace-home` | Connecting support for vulnerable communities through regional maps [Future] |
