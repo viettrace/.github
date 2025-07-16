@@ -38,12 +38,11 @@ We welcome:
 - Geographers, data journalists
 - Anyone who loves the S-shaped land 🇻🇳
 
-> **Let’s preserve what should not be forgotten.**
-
 ---
 
 ## Contact
 
 - Email: lam.tttech19@gmail.com
 - Website: *Coming soon*
-- Facebook / Instagram / Zalo: *Coming soon*
+
+> **Let’s preserve what should not be forgotten.**
